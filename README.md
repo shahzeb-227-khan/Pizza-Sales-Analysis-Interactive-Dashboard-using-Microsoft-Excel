@@ -153,5 +153,3 @@ This project demonstrates the ability to:
 This project is created for **educational and learning purposes** as part of the Saylani Final Task.
 
 ---
-
-Just tell me 👍
